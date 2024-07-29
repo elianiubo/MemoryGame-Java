@@ -1,0 +1,3 @@
+<%
+session.setAttribute("barrejar", "true");
+%>
